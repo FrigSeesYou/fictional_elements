@@ -16,8 +16,6 @@ elements.liquid_jublium = {
 	state: "liquid",
 	tempLow: -127,
 	stateLow: "jublium_powder",
-	tempHigh: -36,
-	stateHigh: "jublium",
 	density: 78
 }
 
@@ -27,7 +25,5 @@ elements.jublium_powder = {
 	category: "fictional",
 	hidden: true,
 	state: "solid",
-	tempHigh: -127,
-	stateHigh: "liquid_jublium",
 	density: 89
 }
